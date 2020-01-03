@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c2d3aff-2f21-46d9-92d2-f83909587787" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Vrc4DCHVqSVNFgMRZQ29YeJBBt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Task1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <module name="He Mingli A1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c2d3aff-2f21-46d9-92d2-f83909587787" name="Default Changelist" comment="" />
+      <created>1578014460521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578014460521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1578014523610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578014523610" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578016084897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578016084897" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578015810034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578015810034" />
+    <state x="254" y="256" key="FileChooserDialogImpl" timestamp="1578024991967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578024991967" />
+    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1578030208024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578030208024" />
+    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1578030208024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578030208024" />
+    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1578030208024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578030208024" />
+    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1578030208024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578030208024" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1578025112690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578025112690" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1578014466068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578014466068" />
+  </component>
+</project>
