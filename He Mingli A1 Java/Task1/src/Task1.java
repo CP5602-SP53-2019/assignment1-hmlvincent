@@ -1,4 +1,6 @@
-import java.io.*;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
 public class Task1 {
@@ -28,6 +30,12 @@ public class Task1 {
         Scanner input3 = new Scanner(System.in);
         System.out.println("How many value do you want output:");
         numOfValue = input3.nextInt();
+        while (numOfValue <= 0) {
+            System.out.println("The value of number is must greater than 0");
+            Scanner input3a = new Scanner(System.in);
+            System.out.println("How many value do you want output:");
+            numOfValue = input3a.nextInt();
+        }
 
         Scanner input4 = new Scanner(System.in);
         System.out.println("Do you want output unique(T/F):");
@@ -67,7 +75,9 @@ public class Task1 {
             }
             long endTime = System.currentTimeMillis();
             System.out.println("Random number generate time:" + (endTime - startTime) + "ms");
-            savetofile(arr,startTime);
+            if (storedetermination.equals("T")) {
+                savetofile(arr,startTime);
+            }
 
         } else if (unique == true) {
             long startTime = System.currentTimeMillis();
@@ -90,9 +100,11 @@ public class Task1 {
             for (int i = 0; i < numOfValue; i++) {
                 System.out.print(arr[i] + "\r\n");
             }
-            savetofile(arr,startTime);
             long endTime = System.currentTimeMillis();
             System.out.println("Random number generate time:" + (endTime - startTime) + "ms");
+            if (storedetermination.equals("T")) {
+                savetofile(arr,startTime);
+            }
         }
     }
 
@@ -111,10 +123,10 @@ public class Task1 {
         } catch (IOException ex) {
             ex.printStackTrace();
         }
-        Scanner input9 = new Scanner(System.in);
+        Scanner input6 = new Scanner(System.in);
         System.out.println("Press enter to exit.");
-        String userInput2 = input9.next();
-        if (userInput2.equals(null)) {
+        String userInput2 = input6.next();
+        if (userInput2 == null) {
             System.exit(0);
         }else {
             System.exit(0);
